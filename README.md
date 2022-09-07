@@ -58,6 +58,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Anatomy of an MEV Strategy: Synthetix](https://bertcmiller.com/2021/09/05/mev-synthetix.html), 2021
 - [MEV-Boost: Merge ready Flashbots Architecture](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177), 2021
 - [The future of MEV](https://fbifemboy.substack.com/p/the-future-of-maximal-extractable), 2022
+- [Order Flows: Kingmaker of the Block Builders](https://noxx.substack.com/p/order-flows-kingmaker-of-the-block), 2022
 - [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations), 2022
 - [Mev marketplaces and their evolution - Part 1](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8), 2022
 - [Mev markets and proof of stake - Part 2](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI), 2022
@@ -79,19 +80,22 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Paradigm’s Thesis – w/ Charlie Noyes, Georgios Konstantopoulos and Hasu [+transcript]](https://uncommoncore.co/25-episode-charlie-noyes-georgios-konstantopoulos-and-hasu/), 2021
 - [rypto’s Existential Threat | MEV Panel: Phil Daian, Georgios Konstanopolus, Charlie Noyes](http://podcast.banklesshq.com/66-cryptos-existential-threat-mev-panel-phil-daian-georgios-konstanopolus-charlie-noyes), 2021
 - [A Dip into the Mempool & MEV with Project Blanc](https://zeroknowledge.fm/216-2/), 2021
+- [Dark Forest and 0xPARC with Gubsheep](https://zeroknowledge.fm/226-2/), 2022
 - [Flash Loans, Miner Extractable Value and Efficient Settlement - Joint with Alfred Lehar (Calgary)](https://www.youtube.com/watch?v=0fHgAAKR9u8), 2022
 - [MEV on ETH2 by Vitalik Buterin](https://www.youtube.com/watch?v=OD54WfVuDWw), 2022
 - [MEV Day playlist](https://www.youtube.com/watch?v=vhxIjEnhutw&list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI), 2022
 - [Stanford Blockchain Conference, MEV Workshop Video](https://www.youtube.com/watch?v=5JmER64a0Xk), 2022
 - Block Builder Innovation Post Merge by Alex stokes, 2022 [[Slides]](https://docs.google.com/presentation/d/1gU3sBviud5WKrbytAnKa8gijVG_uC8weJ8KXfy6u30U/edit#slide=id.p)
 - Probablistic Liquidity Attacks by Tarun Chitra, 2022 [[Slides]](https://drive.google.com/file/d/1kCsmC52Jbhj8bpQMMo3-Z92P6L5E5hxl/view)
+- [Dive Back into MEV with Alex Stokes and Chris Hager](https://zeroknowledge.fm/243-2/)
 
 # Twitter Threads
 - [Bert Miller, Flashbots, Thread of threads on MEV](https://twitter.com/bertcmiller/status/1402665992422047747), 2021 and updating
+- [MEV on Solana by Misaka](https://twitter.com/0xmisaka/status/1506318206281170964?s=20&t=oyP3aDxxL20dGcwdmmUelQ)
 - [Thogard on Private Order Flow and MEV](https://twitter.com/ThogardPvP/status/1565966198063345664?s=20&t=LP7_yqy5JGXMij-fGhrFGQ), 2022
 
 
 # Codebases
-- 
+- [Arbitrage Examples by ControlCplusControlV](https://github.com/ControlCplusControlV/Arbitrage-Example)
 
 
