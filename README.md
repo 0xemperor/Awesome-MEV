@@ -66,7 +66,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 
 # Lecture/Podcasts
 - [Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44), 2018
-- ["Miner Extractable Value with Phil & Georgios" - Georgios Konstantopoulos & Phil Daian](https://www.youtube.com/watch?v=0fHgAAKR9u8), 2020
+- ["Miner Extractable Value with Phil & Georgios" - Georgios Konstantopoulos & Phil Daian](https://www.youtube.com/watch?v=tv0CkmcoGkM), 2020
 - [Flashbots Research Workshop playlist](https://www.youtube.com/watch?v=KDpdktixG5w&list=PLRHMe0bxkuelLKy7oN409xqG_adEjYtxB), 2020
 - [Investing in DeFi Paradigms | Charlie Noyes (MEV discussion starts around 1:00:00)](http://podcast.banklesshq.com/26-eth-has-to-be-money-charlie-noyes), 2020
 - [Understanding MEV - with Georgios Konstantopoulos, Dan Robinson, and Hasu](https://anchor.fm/uncommoncore/episodes/Understanding-MEV---with-Georgios-Konstantopoulos--Dan-Robinson--and-Hasu-ejtp3j), 2020
