@@ -14,7 +14,7 @@ A list of MEV resources with a focus on past research papers/talks, Will also pr
 - [Combining GHOST and Casper](https://arxiv.org/abs/2003.03052), 2020
 - [Frontrunning on Automated Decentralized Exchange in Proof Of Stake Environment](https://eprint.iacr.org/2020/1206), 2020
 - [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/pdf/2102.03347.pdf)
-- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf), 2021
+- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf), 2021 [[Video]](https://www.youtube.com/watch?v=5lop03OWhzU)
 - [Estimating (Miner) Extractable Value is Hard, Let’s Go Shopping!](https://eprint.iacr.org/2021/1231), 2021
 - [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf), 2021
 - [Cyclic Arbitrage in Decentralized Exchanges](https://dl.acm.org/doi/10.1145/3487553.3524201), 2021
