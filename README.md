@@ -101,5 +101,5 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 # Dashboards
 - [MEV Explore](https://explore.flashbots.net/)
 - [Real-time MEV live stream](https://eigenphi.io/ethereum/txr)
-- [mevboost.org/](https://www.mevboost.org/)
+- [mevboost.org](https://www.mevboost.org/)
 
