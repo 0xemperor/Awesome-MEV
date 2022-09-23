@@ -24,6 +24,7 @@ A list of MEV resources with a focus on past research papers/talks, Will also pr
 - [A2MM: Mitigating Frontrunning, Transaction Reordering and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/2106.07371.pdf)
 - [Opportunistic Algorithmic Double-Spending: How I learned to stop worrying and hedge the Fork](https://eprint.iacr.org/2021/1182), 2021
 - [Your Smart Contracts Are Not Secure: Investigating Arbitrageurs and Oracle Manipulators in Ethereum](https://dl.acm.org/doi/10.1145/3474374.3486916), 2021
+- [SOK: Mitigation of Frontrunning in Decentralized Finance](https://eprint.iacr.org/2021/1628.pdf), 2021
 - [Is Blockchain Becoming More Centralized? Evidence on Collusion in the Ethereum Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940678), 2021
 - [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/pdf/2112.01472.pdf), 2021
 - [FairBlock: Preventing Blockchain Front-running with Minimal Overheads](https://eprint.iacr.org/2022/1066.pdf), 2022
