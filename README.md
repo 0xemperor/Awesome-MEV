@@ -64,6 +64,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Mev marketplaces and their evolution - Part 1](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8), 2022
 - [Mev markets and proof of stake - Part 2](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI), 2022
 - [Mev markets: payments for order flow - Part 3](https://mirror.xyz/0xshittrader.eth/f2VSuoZ91vAbCv82MtWM-Gosyf_DeUXfPlDx3EYV3RM), 2022
+- [What is MEV and how it endangers Ethereum](https://medium.com/roverx/what-is-mev-and-how-it-endangers-ethereum-6649ce7a9f32), 2022
 
 # Lecture/Podcasts
 - [Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44), 2018
