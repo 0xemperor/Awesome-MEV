@@ -89,11 +89,14 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - Block Builder Innovation Post Merge by Alex stokes, 2022 [[Slides]](https://docs.google.com/presentation/d/1gU3sBviud5WKrbytAnKa8gijVG_uC8weJ8KXfy6u30U/edit#slide=id.p)
 - Probablistic Liquidity Attacks by Tarun Chitra, 2022 [[Slides]](https://drive.google.com/file/d/1kCsmC52Jbhj8bpQMMo3-Z92P6L5E5hxl/view)
 - [Dive Back into MEV with Alex Stokes and Chris Hager](https://zeroknowledge.fm/243-2/)
+- [Cost of Feudalism by Tarun Chitra and Guillermo Angeris, Devcon 2022](https://archive.devcon.org/archive/watch/6/cost-of-feudalism-towards-a-theory-of-mev/?tab=YouTube)
+- [Block Building after the merge by Alex Stokes, Devcon 2022](https://archive.devcon.org/archive/watch/6/block-building-after-the-merge/?tab=YouTube)
 
 # Twitter Threads
 - [Bert Miller, Flashbots, Thread of threads on MEV](https://twitter.com/bertcmiller/status/1402665992422047747), 2021 and updating
 - [MEV on Solana by Misaka](https://twitter.com/0xmisaka/status/1506318206281170964?s=20&t=oyP3aDxxL20dGcwdmmUelQ)
 - [Thogard on Private Order Flow and MEV](https://twitter.com/ThogardPvP/status/1565966198063345664?s=20&t=LP7_yqy5JGXMij-fGhrFGQ), 2022
+- [This is MEV by Sxysun, Devcon 2022](https://archive.devcon.org/archive/watch/6/this-is-mev/?tab=YouTube)
 
 
 # Codebases
