@@ -64,6 +64,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Mev marketplaces and their evolution - Part 1](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8), 2022
 - [Mev markets and proof of stake - Part 2](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI), 2022
 - [Mev markets: payments for order flow - Part 3](https://mirror.xyz/0xshittrader.eth/f2VSuoZ91vAbCv82MtWM-Gosyf_DeUXfPlDx3EYV3RM), 2022
+- [Mev Impact on Uniswap](https://eigenphi.io/report/mev-impact-on-uniswap) by Eigenphi, 2022
 
 # Lecture/Podcasts
 - [Blockchain 101: Transaction lifecycle & the mempool](https://www.zeroknowledge.fm/44), 2018
@@ -107,3 +108,5 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Real-time MEV live stream](https://eigenphi.io/ethereum/txr)
 - [mevboost.org](https://www.mevboost.org/)
 
+# Other Resources
+- [Quantifying Total MEV - A list of resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936/1) by Alex Obadia, Flashbots 2022
