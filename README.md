@@ -93,6 +93,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Cost of Feudalism by Tarun Chitra and Guillermo Angeris, Devcon 2022](https://archive.devcon.org/archive/watch/6/cost-of-feudalism-towards-a-theory-of-mev/?tab=YouTube)
 - [Block Building after the merge by Alex Stokes, Devcon 2022](https://archive.devcon.org/archive/watch/6/block-building-after-the-merge/?tab=YouTube)
 - [This is MEV by Sxysun, Devcon 2022](https://archive.devcon.org/archive/watch/6/this-is-mev/?tab=YouTube)
+- [ETH Denver 2023, Flashbots Day](https://www.youtube.com/playlist?list=PLRHMe0bxkueljZryWVd9CE8Xgl8WelLTr)
 
 # Twitter Threads
 - [Bert Miller, Flashbots, Thread of threads on MEV](https://twitter.com/bertcmiller/status/1402665992422047747), 2021 and updating
