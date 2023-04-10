@@ -112,4 +112,5 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 
 # Other Resources
 - [Quantifying Total MEV - A list of resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936/1) by Alex Obadia, Flashbots 2022
+- [Flashbots - MEV Research Repository](https://github.com/flashbots/mev-research) - This repository contains active "FRPs" (Flashbot research proposals) which might give you a hint of where the field is going and other research directions that have been pursued by Flashbots in MEV in past.
 
