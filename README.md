@@ -94,6 +94,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [Block Building after the merge by Alex Stokes, Devcon 2022](https://archive.devcon.org/archive/watch/6/block-building-after-the-merge/?tab=YouTube)
 - [This is MEV by Sxysun, Devcon 2022](https://archive.devcon.org/archive/watch/6/this-is-mev/?tab=YouTube)
 - [ETH Denver 2023, Flashbots Day](https://www.youtube.com/playlist?list=PLRHMe0bxkueljZryWVd9CE8Xgl8WelLTr)
+- [MEVconomics.wtf Summit, 2023](https://www.youtube.com/watch?v=t3sL0sCJFzk)
 
 # Twitter Threads
 - [Bert Miller, Flashbots, Thread of threads on MEV](https://twitter.com/bertcmiller/status/1402665992422047747), 2021 and updating
@@ -103,6 +104,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 
 # Codebases
 - [Arbitrage Examples by ControlCplusControlV](https://github.com/ControlCplusControlV/Arbitrage-Example)
+- [Lido MEV: Withdrawal NFT by jackqack](https://github.com/jackqack/lido-mev)
 
 # Dashboards
 - [MEV Explore](https://explore.flashbots.net/)
