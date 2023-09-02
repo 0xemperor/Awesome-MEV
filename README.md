@@ -39,6 +39,7 @@ A list of MEV resources with a focus on past research papers/talks, Will also pr
 - [An Empirical Study on Ethereum Private Transactions and the Security Implications ](https://arxiv.org/abs/2208.02858), 2022
 - [Improving Proof of Stake Economic Security via MEV
 Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pdf), 2022
+- [The spectre and spectra of Miner Extractable Value](https://angeris.github.io/papers/mev-symmetric.pdf), 2023
 
 
 # Articles 
