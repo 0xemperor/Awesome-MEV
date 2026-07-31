@@ -113,6 +113,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [mevboost.org](https://www.mevboost.org/)
 - [MEV Boost Dashboard](http://mevboost.pics/) by [Nero_eth](https://twitter.com/nero_eth)
 
+- [ClearTrace](https://cleartracedata.com) by [ClearTraceData](https://twitter.com/ClearTraceData) - DEX execution-quality and sandwich-exposure dashboards + free API across Ethereum, Base, Arbitrum, Optimism
 # Other Resources
 - [Quantifying Total MEV - A list of resources](https://collective.flashbots.net/t/quantifying-total-extracted-mev-a-list-of-resources/936/1) by Alex Obadia, Flashbots 2022
 - [Flashbots - MEV Research Repository](https://github.com/flashbots/mev-research) - This repository contains active "FRPs" (Flashbot research proposals) which might give you a hint of where the field is going and other research directions that have been pursued by Flashbots in MEV in past.
