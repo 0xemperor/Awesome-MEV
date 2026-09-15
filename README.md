@@ -96,6 +96,7 @@ Redistribution](http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pd
 - [This is MEV by Sxysun, Devcon 2022](https://archive.devcon.org/archive/watch/6/this-is-mev/?tab=YouTube)
 - [ETH Denver 2023, Flashbots Day](https://www.youtube.com/playlist?list=PLRHMe0bxkueljZryWVd9CE8Xgl8WelLTr)
 - [MEVconomics.wtf Summit, 2023](https://www.youtube.com/watch?v=t3sL0sCJFzk)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 # Twitter Threads
 - [Bert Miller, Flashbots, Thread of threads on MEV](https://twitter.com/bertcmiller/status/1402665992422047747), 2021 and updating
